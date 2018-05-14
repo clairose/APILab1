@@ -1,0 +1,41 @@
+body {
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    width: 200px;
+    margin-bottom: 50px;
+}
+h1 {
+    position: absolute;
+    top: 5%;
+    color: white;
+    margin-bottom: 200px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1em;
+    text-decoration: none;
+}
+
+#imageHeader {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+a {
+    color: #ae66ff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ae66ff;
+}
+
+a:hover {
+    color: #e16cbf
+}
